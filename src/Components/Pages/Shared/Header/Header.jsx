@@ -9,7 +9,7 @@ const Header = () => {
             </div>
 
             <p>Journalism Without Fear or Favour</p>
-            <p className='text-xl'>{moment().format("MMM, D, YYYY")}</p>
+            <p className='text-xl mt-2'>{moment().format("MMM, D, YYYY")}</p>
 
         </div>
     );
