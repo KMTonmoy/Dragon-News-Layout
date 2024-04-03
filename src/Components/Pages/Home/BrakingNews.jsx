@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const BrakingNews = () => {
     return (
         <div className='flex my-5 items-center'>
-            <button className='btn bg-pink-800'>Latest</button>
+            <button className='btn bg-pink-600 text-white'>Latest</button>
             <Marquee pauseOnHover={true}>
                 <Link to={'/'}>
                     Match Highlights: Germany vs Spain — as it happened   !   Match Highlights: Germany vs Spain as...

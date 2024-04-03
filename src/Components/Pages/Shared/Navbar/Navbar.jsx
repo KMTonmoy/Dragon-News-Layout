@@ -34,7 +34,7 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end gap-2">
                     <img className='w-[50px] rounded-full' src={userDefoultImg} alt="" />
-                    <button className='btn bg-gray-800'>Login</button>
+                    <button className='btn bg-gray-700 text-white'>Login</button>
                 </div>
             </div>
         </div>
