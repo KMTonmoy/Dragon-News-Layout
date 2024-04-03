@@ -14,7 +14,7 @@ const Home = () => {
                     <LeftSideNav></LeftSideNav>
                 </div>
                 <div className='col-span-2'>
-                    <LeftSideNav></LeftSideNav>
+                    <>This Is Main</>
                 </div>
                 <div >
                     <RighSideNav></RighSideNav>
